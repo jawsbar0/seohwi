@@ -287,7 +287,8 @@
     "계통": "물리계 · 감각증폭",
     "직책": "생도회장",
     "생일": "3월 2일"
-   }
+   },
+   "img": "assets/img/cha-doyul.webp?v=20261115"
   },
   {
    "slug": "gi-taeheon",
@@ -312,7 +313,8 @@
     "계통": "자연계 · 중력조작",
     "출신": "[[families|기산그룹]] 차남",
     "생일": "11월 3일"
-   }
+   },
+   "img": "assets/img/gi-taeheon.webp?v=20261115"
   },
   {
    "slug": "kang-seoram",
@@ -358,7 +360,7 @@
     "계통": "특수계 · 공간각인",
     "생일": "12월 22일"
    },
-   "img": "assets/img/baek-hanseol.webp"
+   "img": "assets/img/baek-hanseol.webp?v=20261115"
   },
   {
    "slug": "mo-eunsae",
@@ -405,7 +407,7 @@
     "페어": "없음 (거부)",
     "생일": "10월 8일"
    },
-   "img": "assets/img/lee-sol.webp"
+   "img": "assets/img/lee-sol.webp?v=20261115"
   },
   {
    "slug": "ryu-sian",
@@ -429,7 +431,7 @@
     "발현": "진동 · 충격파",
     "생일": "2월 14일"
    },
-   "img": "assets/img/ryu-sian.webp"
+   "img": "assets/img/ryu-sian.webp?v=20261115"
   },
   {
    "slug": "seo-wusak",
@@ -453,7 +455,8 @@
     "계통": "치유계",
     "가족": "[[seo-eunro|서은로]] (누나)",
     "생일": "8월 19일"
-   }
+   },
+   "img": "assets/img/seo-wusak.webp?v=20261115"
   },
   {
    "slug": "han-jaei",
@@ -475,7 +478,7 @@
     "계통": "자연계 · 번개",
     "생일": "7월 22일"
    },
-   "img": "assets/img/han-jaei.webp"
+   "img": "assets/img/han-jaei.webp?v=20261115"
   },
   {
    "slug": "yoon-naru",
@@ -563,7 +566,8 @@
     "계통": "특수계 · 그림자조작",
     "출신": "각사 15기 · 전 센터 정예팀",
     "생일": "10월 17일"
-   }
+   },
+   "img": "assets/img/do-hyunwol.webp?v=20261115"
   },
   {
    "slug": "yeon-jaegyeong",
@@ -678,7 +682,8 @@
     "코드네임": "이그렛 (Egret)",
     "출신": "각사 15기 지원학과 수석",
     "가족": "[[seo-wusak|서우삭]] (동생)"
-   }
+   },
+   "img": "assets/img/seo-eunro.webp?v=20261115"
   },
   {
    "slug": "pyo-jiwon",
@@ -747,7 +752,8 @@
     "출신": "각사 19기 전투학과",
     "상태": "의무복무 중 이탈 · 수배",
     "현 소속": "[[■4]]"
-   }
+   },
+   "img": "assets/img/ju-sihwa.webp?v=20261115"
   },
   {
    "slug": "ham-seokjin",
