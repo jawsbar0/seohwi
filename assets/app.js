@@ -16,8 +16,9 @@
   const rng = (seed) => { let h = 2166136261; for (const ch of seed) h = Math.imul(h ^ ch.charCodeAt(0), 16777619); return () => ((h = Math.imul(h ^ (h >>> 15), 2246822507) ^ Math.imul(h ^ (h >>> 13), 3266489909)) >>> 0) / 4294967296; };
 
   function pic(p, big) {
-    const ph = `<div class="ph${p.blur ? " blur" : ""}"><span>${esc(initial(p))}</span>${big ? `<small>${p.img ? "" : "IMAGE PENDING"}</small>` : ""}</div>`;
-    const img = p.img ? `<img src="${esc(p.img)}" alt="${esc(p.title)}" loading="lazy" onerror="this.remove()">` : "";
+    const fog = p.blur && !big;
+    const ph = `<div class="ph${fog ? " blur" : ""}"><span>${esc(initial(p))}</span>${big ? `<small>${p.img ? "" : "IMAGE PENDING"}</small>` : ""}</div>`;
+    const img = p.img ? `<img${fog ? ' class="fog"' : ""} src="${esc(p.img)}" alt="${esc(p.title)}" loading="lazy" onerror="this.remove()">` : "";
     return ph + img;
   }
 

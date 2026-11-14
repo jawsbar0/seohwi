@@ -91,6 +91,8 @@ a.wl.red{color:#c77;border-bottom:1px dotted}
 .ph span{font:900 64px var(--serif);color:#232a33;letter-spacing:-.04em}
 .ph small{position:absolute;bottom:10px;font:10.5px var(--mono);color:var(--mute);letter-spacing:.12em}
 .ph.blur span{filter:blur(6px)}
+.pic img.fog{filter:blur(9px) grayscale(.35) brightness(.85);transform:scale(1.12)}
+.pc .pic{overflow:hidden}
 .info h3{margin:0;padding:12px 14px 2px;font:700 17px var(--serif)}
 .info .alt{padding:0 14px 10px;color:var(--mute);font:12px var(--mono)}
 .info dl{margin:0;padding:4px 0 10px;display:grid;grid-template-columns:auto 1fr;font-size:13.5px}
