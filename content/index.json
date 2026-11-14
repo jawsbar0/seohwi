@@ -357,7 +357,8 @@
     "등급": "A급 센티넬",
     "계통": "특수계 · 공간각인",
     "생일": "12월 22일"
-   }
+   },
+   "img": "assets/img/baek-hanseol.webp"
   },
   {
    "slug": "mo-eunsae",
@@ -403,7 +404,8 @@
     "무장": "AWM · 웰로드",
     "페어": "없음 (거부)",
     "생일": "10월 8일"
-   }
+   },
+   "img": "assets/img/lee-sol.webp"
   },
   {
    "slug": "ryu-sian",
@@ -426,7 +428,8 @@
     "등급": "S급 발현형 가이드",
     "발현": "진동 · 충격파",
     "생일": "2월 14일"
-   }
+   },
+   "img": "assets/img/ryu-sian.webp"
   },
   {
    "slug": "seo-wusak",
@@ -471,7 +474,8 @@
     "등급": "A급 센티넬",
     "계통": "자연계 · 번개",
     "생일": "7월 22일"
-   }
+   },
+   "img": "assets/img/han-jaei.webp"
   },
   {
    "slug": "yoon-naru",
